@@ -2,9 +2,6 @@
 Documentação que contêm explicação de Classes, Controles, Lógicas e manipulações do WPF
 <hr>
 
-
-# Documentação WPF
-
 ## Canvas
 Canvas é útil quando você precisa posicionar elementos em posições XY fixas na tela. É mais simples e prático do que usar as "Correntes" do Visual Studio 2022.
 
